@@ -1,0 +1,10 @@
+#heading-color{
+   color: rgb(0, 66, 128)
+}
+
+.btn-color{
+   background-color: rgb(0, 66, 128);
+   border: none;
+   padding: 7px 10px;
+   border-radius: 15px;
+}
